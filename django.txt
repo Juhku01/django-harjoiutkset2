@@ -1,0 +1,2 @@
+C:\Users\juhani.jokitulppo\Desktop\django_harjoitukset\first_project>
+C:\Users\juhani.jokitulppo\Desktop\django_harjoitukset>activate MyDjango
